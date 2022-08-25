@@ -2,6 +2,7 @@
 #define PUNYCODE_CPP_H
 
 #include <stdexcept>
+#include <limits>
 #include <string>
 #include <vector>
 #include <unordered_map>
